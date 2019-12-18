@@ -1,5 +1,5 @@
 {
-  "name": "khoros-use-lodash-debounce-throttle",
+  "name": "use-lodash-debounce-throttle",
   "version": "0.3.5",
   "description": "Bring debounce & throttle of lodash version to react-hooks",
   "main": "lib/index.js",
