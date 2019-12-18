@@ -1,4 +1,4 @@
-import { debounce } from 'lodash-es';
+import { debounce } from 'lodash';
 import createCancelableHook from './createCancelableHook';
 
 interface DebounceSettings {
