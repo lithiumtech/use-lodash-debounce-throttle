@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.3.4",
-    "lodash-es": "^4.17.14"
+    "lodash": "^4.17.15",
   },
   "peerDependencies": {
     "react": ">=16.8.0",
